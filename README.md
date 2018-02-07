@@ -1,6 +1,6 @@
 # H * E * L * I * O S
 
-#### _A Game Project, 01/26/18_
+#### _A Game Project, 02/02/18_
 
 #### _**Andy Grossberg**_
 ### _With Dalia Ramos, Michael Albers, Kimberly Huynh, and Logan Tanous_
@@ -126,7 +126,7 @@ _If there was time they would have been positionable via X Y coordinates using A
 
 ## KNOWN BUGS
 
-_When looping through NPC responses, the array index of one of the question levels is fence-posting so it gives an answer form the question before it._
+_When looping through NPC responses, the array index of one of the question levels is fence-posting so it gives an answer from the question before it._
 
 ## SUPPORT AND CONTACT DETAILS
 

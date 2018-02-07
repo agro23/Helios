@@ -2,14 +2,14 @@
 
 #### _A Game Project, 02/02/18_
 
-#### _**Andy Grossberg**_
+### _**Andy Grossberg**_
 ### _With Dalia Ramos, Michael Albers, Kimberly Huynh, and Logan Tanous_
 
-## DESCRIPTION
+### DESCRIPTION
 
 _This is the Team Project for Week Five of Intro to Programming at Epicodus_
 
-## LOCATION
+### LOCATION
 
 _You can find the files at https://www.github.com/agro23/Helios
 
